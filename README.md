@@ -1,2 +1,4 @@
 # Projeto Aumigo
-Favor considerar que sou **fraquinha**, logo não consegui criar algo muito complexo.
+
+Acesse o site entrando no link **https://lulucarepiluca.github.io/Projeto-Aumigo/**
+Agradecimentos especiais ao meu namorado que me explicou todo o processo.
