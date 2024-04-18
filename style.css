@@ -3,8 +3,8 @@
 /* Espaço para criar variáveis */
 :root {
     --cor-titulo: black;
-    --cor-degrade-3: #D9C7BD;
-    --cor-degrade-4: #F6F2F0;
+    --cor-degrade-1: #D9C7BD;
+    --cor-degrade-2: #F6F2F0;
 
     --largura-maxima: 1080px;
 }
@@ -21,7 +21,7 @@ body {
     height: 100vh;
     font-family: Arial, Helvetica, sans-serif;
     background-color: var(--cor-fundo);
-    background-image: linear-gradient(0deg, var(--cor-degrade-3), var(--cor-degrade-4)) 
+    background-image: linear-gradient(0deg, var(--cor-degrade-1), var(--cor-degrade-2)) 
 }
 
 .cabecalho {
